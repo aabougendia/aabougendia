@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulrahman Abougendia  
 
-🎓 Computer Engineering Student @ ** Purdue University** and **Egypt University of Informatics (EUI)**  
+🎓 Computer Engineering Student @ **Purdue University** and **Egypt University of Informatics (EUI)**  
 📍 Cairo, Egypt | 📧 ab.abougendia@outlook.com  
 
 ---
@@ -47,7 +47,7 @@ A microcontroller-based **automated sorting system** using sensors, motors, and 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-abougendia-971b33280)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aabougendia)  
-📞 **+20 102 636 2660** | ✉️ **ab.abougendia@outlook.com**  
+✉️ **ab.abougendia@outlook.com**  
 
 ---
 
